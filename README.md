@@ -1,4 +1,4 @@
-# IdeaBridge
+# IdeaBridgex
 
 Building Trust. Empowering Innovation.
 
