@@ -1,0 +1,37 @@
+{
+  "name": "ideabridge",
+  "version": "1.0.0",
+  "description": "Building Trust. Empowering Innovation.",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahalbrionesmb-byte/frvir.tual.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahalbrionesmb-byte/frvir.tual/issues"
+  },
+  "homepage": "https://github.com/mahalbrionesmb-byte/frvir.tual#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1",
+    "next": "^16.2.9",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.3",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "eslint": "^10.5.0",
+    "eslint-config-next": "^16.2.9",
+    "typescript": "^6.0.3"
+  }
+}
