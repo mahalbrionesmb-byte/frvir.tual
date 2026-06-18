@@ -19,4 +19,4 @@ https://ideabridge-one.vercel.app
 
 ## Founder
 
-Ma. Lourdes Sarana Briones
+Ma Lourdes Briones
