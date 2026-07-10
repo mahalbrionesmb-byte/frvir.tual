@@ -1,0 +1,67 @@
+import "./App.css";
+
+function App() {
+  return (
+    <div className="app">
+
+      <header className="hero">
+        <nav className="navbar">
+          <h2>IdeaBridge</h2>
+
+          <div className="menu">
+            <a href="#">Home</a>
+            <a href="#">Explore</a>
+            <a href="#">Submit Idea</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+          </div>
+        </nav>
+
+        <div className="hero-content">
+          <h1>
+            Connect Ideas.
+            <br />
+            Build the Future.
+          </h1>
+
+          <p>
+            IdeaBridge helps innovators safely share ideas,
+            collaborate with trusted partners,
+            and turn great concepts into reality.
+          </p>
+
+          <div className="buttons">
+            <button>Start Your Idea</button>
+            <button>Explore Ideas</button>
+          </div>
+        </div>
+      </header>
+
+      <section className="features">
+
+        <div className="card">
+          <h3>💡 Innovation</h3>
+          <p>Create and organize your ideas securely.</p>
+        </div>
+
+        <div className="card">
+          <h3>🤝 Collaboration</h3>
+          <p>Work with verified innovators and investors.</p>
+        </div>
+
+        <div className="card">
+          <h3>🔒 Protection</h3>
+          <p>Your ideas stay protected with privacy-first tools.</p>
+        </div>
+
+      </section>
+
+      <footer>
+        © 2026 IdeaBridge • Built with React + Cloudflare
+      </footer>
+
+    </div>
+  );
+}
+
+export default App;
